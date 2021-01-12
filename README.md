@@ -1,2 +1,2 @@
-# AlgoritmosED
-Prueba ede Git yGithub
+# Algoritmos
+Prueba de Git GitHub
